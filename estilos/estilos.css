@@ -19,3 +19,13 @@
     
 }
 
+.caja-contenedor3{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 15%;
+    margin-top: 2%;
+    text-align: center;
+    overflow: hidden;   
+    text-align: left;
+}
+
